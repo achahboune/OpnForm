@@ -13,7 +13,7 @@
     "lint:fix": "eslint . --fix --ext .js,.vue"
   },
   "devDependencies": {
-    "@nuxt/devtools": "~1.0.0",
+    "@nuxt/devtools": "1.6.0",
     "@nuxt/eslint-config": "^0.2.0",
     "@zadigetvoltaire/nuxt-gtm": "^0.0.13",
     "autoprefixer": "^10.4.16",
@@ -27,7 +27,6 @@
     "postcss": "^8.4.32",
     "prettier": "^3.2.5",
     "sass": "^1.69.6",
-    "vue": "^3.3.10",
     "vue-router": "^4.2.5"
   },
   "dependencies": {
